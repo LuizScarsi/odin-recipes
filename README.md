@@ -1,0 +1,2 @@
+This is a HTML project where I use the commands that i learned in the Odin Project's lessons to build a recipe website.
+The insertion of relative links, images and the text structure with the headings, paragraphs and lists are important tools that are not just used in this project but in almost every website.
